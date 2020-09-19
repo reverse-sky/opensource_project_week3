@@ -1,0 +1,5 @@
+git status
+	git add git-test.txt
+git staus
+git commit -m "create new file [new]"
+	git log
